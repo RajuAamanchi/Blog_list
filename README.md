@@ -81,13 +81,10 @@ src/
 ***
 
 ## 🎨 UI Preview  
+![blog-list](https://github.com/user-attachments/assets/4f1647c6-33da-4695-954a-15db1e4f86e3)
 
 ### Blog List Screen  
-![Blog List](https://assets.ccbp.in/frontend/contentsets.ccbp.in/frontend/content route → `/about`  
-- `Contact` route → `/contact`  
-- User profile image →  
-  - Source: [Profile Image](https://assets.ccbp.in/frontend/react-js/profile-img.png)  
-  - `alt="profile"`  
+
 
 ***
 
@@ -102,14 +99,5 @@ src/
 
 ## 👨‍💻 Author  
 
-👋 Hi, I’m **[Your Name]** — this project is from my learning portal exercises to practice **React routing concepts**.  
+👋 Hi, I’m **[Raju Aamanchi]** — this project is from my learning portal exercises to practice **React routing concepts**.  
 
-***
-
-✨ Thanks for checking out my project!  
-
-***
-
-👉 Do you also want me to prepare a **combined portfolio-style README** where you list **both Match Game + Blog List projects together** (so your GitHub will look more like a portfolio collection)?
-
-[1](https://assets.ccbp.in/frontend/content/react-js/routing-practice-bl)

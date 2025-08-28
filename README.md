@@ -95,9 +95,3 @@ src/
 - Passing data as **props** into components.  
 - Styling React apps with a **mobile-first responsive approach**.  
 
-***
-
-## 👨‍💻 Author  
-
-👋 Hi, I’m **[Raju Aamanchi]** — this project is from my learning portal exercises to practice **React routing concepts**.  
-

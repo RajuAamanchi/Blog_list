@@ -1,10 +1,3 @@
-Got it ✅  
-So now you’re asking for a clean **GitHub-ready README.md** for your **Blog List Project** (another learning portal project, like the Match Game one).  
-
-Here’s a professional, neat **README.md** that you can upload to your repo:  
-
-***
-
 # 📝 Blog List (React Project)  
 
 This is a **ReactJS practice project** where I built a **Blog List application**. The app displays user profile information and a list of blogs on the **Home route**, while also including `About` and `Contact` routes to practice **routing** concepts.  

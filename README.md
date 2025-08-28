@@ -83,9 +83,6 @@ src/
 ## 🎨 UI Preview  
 ![blog-list](https://github.com/user-attachments/assets/4f1647c6-33da-4695-954a-15db1e4f86e3)
 
-### Blog List Screen  
-
-
 ***
 
 ## 🎯 What I Learned  

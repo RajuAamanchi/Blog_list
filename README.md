@@ -12,7 +12,7 @@ This is a **ReactJS practice project** where I built a **Blog List application**
   - `title` (blog heading)  
   - `description` (short blog content)  
   - `publishedDate` (blog post date)  
-- Users can also navigate to:  
+- Users can also navigate to: 
   - **About route → `/about`**  
   - **Contact route → `/contact`**  
 
